@@ -1,0 +1,16 @@
+{
+  "name": "dmstk_dynamic_design",
+  "version": "1.0.0",
+  "description": "* About ** Dynamic Design: Introduction to Flexible Visual Identities + A course by Martin Lorenz, hosted at domestika.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6",
+    "p5": "^1.5.0"
+  }
+}
